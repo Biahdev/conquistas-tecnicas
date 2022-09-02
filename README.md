@@ -1,6 +1,6 @@
 # Conquistas Técnicas
 
-Aqui é onde eu registro toda a minha jornada de conhecimento com os diversos Cursos realizados, os Bootcamps que participei, os Projetos realizados e os Certificados recebidos. Um repositório que esta sempre em atualização.
+No qual eu registro toda a minha jornada de conhecimento com os diversos Cursos realizados, os Projetos realizados e os Certificados recebidos. Um repositório que esta em constante atualização.
 
 # Projetos
 ### Todo List
