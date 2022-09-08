@@ -7,34 +7,26 @@ Aqui registro toda a minha jornada de conhecimento com os diversos Cursos realiz
 É um sistema de gestão de tarefas simples e eficiente feito com Vue.js, Vuex.js e Laravel usando o padrão apiRest.
 <br/>
 GitHub: https://github.com/Biahdev/todo-laravue
-<br/>
-Demo: https://biahdev.github.io/calculator/
 
 ### Xadrex
 Um jogo de xadrez via linha de comando feito com Java puro.
 <br/>
 GitHub: https://github.com/Biahdev/java-chess-game
-<br/>
-Demo:
 
 ### Calculadora
 Uma calculadora feita com vanilla JavaScript, HTML e CSS.
 <br/>
 GitHub: https://github.com/Biahdev/calculator
 <br/>
-Demo:
+Demo: https://biahdev.github.io/calculator/
 
 ### Api Rest com node
 Minha primeira api rest feita com nodejs.
 <br/>
 GitHub:https://github.com/Biahdev/api-rest-node
-<br/>
-Demo:
 
 ### Site do Portifolio
 GitHub: https://github.com/Biahdev/portfolio
-<br/>
-Demo:
 
 # Cursos
 ## Front-end
