@@ -55,6 +55,7 @@ GitHub: https://github.com/Biahdev/portfolio
 
 
 ### **PHP**
+- [PHP: manipulando coleções com Arrays](https://cursos.alura.com.br/user/biahdev/course/php-manipulando-colecoes-arrays/certificate) - 09/2022 - Alura
 - [Laravel: construindo APIs](https://cursos.alura.com.br/user/biahdev/course/laravel-construindo-apis/certificate) - 06/2022 - Alura
 - [Laravel: transações, service container e autenticação](https://cursos.alura.com.br/user/biahdev/course/laravel-transacoes-service-container-autenticacao/certificate) - 06/2022 - Alura
 - [Laravel: validando formulários, usando sessões e definindo relacionamentos](https://cursos.alura.com.br/user/biahdev/course/laravel-formularios-sessoes-relacionamentos/certificate) - 06/2022 - Alura
